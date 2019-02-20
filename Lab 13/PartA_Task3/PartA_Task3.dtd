@@ -1,0 +1,32 @@
+<!DOCTYPE university [
+<!ELEMENT university (departmentOfSoftwareEnigineering+)>
+
+<!ELEMENT departmentOfSoftwareEnigineering (students+)>
+
+<!ELEMENT students (first_year+, second_year+, third_year+, final_year+)>
+
+<!ELEMENT first_year (batch1+, list1+)>
+<!ELEMENT second_year (batch2+, list2+)>
+<!ELEMENT third_year (batch3+, list3+)>
+<!ELEMENT final_year (batch4+, list4+)>
+
+<!ELEMENT batch1 (#PCDATA)>
+<!ELEMENT list1 (names+, roll_nums+)>
+<!ELEMENT batch2 (#PCDATA)>
+<!ELEMENT list2 (names+, roll_nums+)>
+<!ELEMENT batch2 (#PCDATA)>
+<!ELEMENT list3 (names+, roll_nums+)>
+<!ELEMENT batch4 (#PCDATA)>
+<!ELEMENT list4 (names+, roll_nums+)>
+
+<!ELEMENT names (#PCDATA)>
+<!ELEMENT roll_nums (#PCDATA)>
+<!ELEMENT names (#PCDATA)>
+<!ELEMENT roll_nums (#PCDATA)>
+<!ELEMENT names (#PCDATA)>
+<!ELEMENT roll_nums (#PCDATA)>
+<!ELEMENT names (#PCDATA)>
+<!ELEMENT roll_nums (#PCDATA)>
+
+
+]>

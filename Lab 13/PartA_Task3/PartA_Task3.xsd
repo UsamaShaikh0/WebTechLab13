@@ -1,0 +1,49 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+targetNamespace="https://www.w3schools.com"
+xmlns="https://www.w3schools.com"
+elementFormDefault="qualified">
+
+	<xs:element name = "university">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name = "departmentOfSoftwareEnigineering">
+					<xs:element name = "students">
+						<xs:element name = "first_year">
+							<xs:element name = "batch1" type="xs:string"></xs:element>
+							<xs:element name = "list1">
+								<xs:element name="names" type="xs:string"></xs:element>
+								<xs:element name="roll_nums" type="xs:string"></xs:element>
+							</xs:element>
+						</xs:element>
+
+						<xs:element name = "second_year">
+							<xs:element name = "batch1" type="xs:string"></xs:element>
+							<xs:element name = "list1">
+								<xs:element name="names" type="xs:string"></xs:element>
+								<xs:element name="roll_nums" type="xs:string"></xs:element>
+							</xs:element>
+						</xs:element>
+
+						<xs:element name = "third_year">
+							<xs:element name = "batch1" type="xs:string"></xs:element>
+							<xs:element name = "list1">
+								<xs:element name="names" type="xs:string"></xs:element>
+								<xs:element name="roll_nums" type="xs:string"></xs:element>
+							</xs:element>
+						</xs:element>
+
+						<xs:element name = "final_year">
+							<xs:element name = "batch1" type="xs:string"></xs:element>
+							<xs:element name = "list1">
+								<xs:element name="names" type="xs:string"></xs:element>
+								<xs:element name="roll_nums" type="xs:string"></xs:element>
+							</xs:element>
+						</xs:element>
+
+					</xs:element>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+
+</xs:element>
+</xs:schema>

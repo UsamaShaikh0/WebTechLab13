@@ -1,0 +1,78 @@
+<curriculum_vitae>
+	
+	<image>
+		<image_name>16SW65.jpg</image_name>
+		<size>2MB</size>
+		<format>.jpg</format>
+	</image>
+
+	<personal_information>
+		<name>Daniya Shaikh</name>
+		<address>Hyderabad, Sindh</address>
+		<contact_number>0300-30030030</contact_number>
+		<email>daniya@gmail.com</email>
+	</personal_information>
+
+	<objective>Dedicated and motivated engineering graduate seeking entry level assistant quality control manager position with Dyna Tech, LLC</objective>
+
+	<education>
+		<university>
+			<name>Mehran University of Engineering and Technology</name>
+			<degree>BE in Software Engineering</degree>
+			<year>2016-2019</year>
+		</university>
+
+		<college>
+			<name>College Name here</name>
+			<degree>Intermediate</degree>
+			<year>2013-2015</year>
+			<grade>A</grade>
+		</college>
+
+		<school>
+			<name>School Name Here</name>
+			<degree>Matriculation</degree>
+			<year>20**-20**</year>
+			<grade>A+</grade>
+		</school>
+	</education>
+
+	<awards>
+		<award_title>Award Name Here</award_title>
+		<award_title>Award Name Here</award_title>
+		<award_title>Award Name Here</award_title>
+	</awards>
+
+	<experience>
+		<projects_list>
+			<project name="project Name"></project>
+			<project name="project Name"></project>
+			<project name="project Name"></project>
+		</projects_list>
+	</experience>
+
+	<related_experience>
+		
+	</related_experience>
+
+	<skills>
+		<designing>Type Here</designing>
+		<programming_skills>Type Here</programming_skills>
+		<computerandsoftware>Type Here</computerandsoftware>
+		<more>Type Here</more>
+		<other>Type Here</other>
+	</skills>
+
+	<research_work>
+		<title>Research Work Title</title>
+		<title>Research Work Title</title>
+	</research_work>
+
+	<languages>
+		<english>speak, read and write with basic competence</english>
+		<urdu>speak fluently and read/write with high proficiency</urdu>
+		<sindhi>native language</sindhi>
+	</languages>
+
+
+</curriculum_vitae>

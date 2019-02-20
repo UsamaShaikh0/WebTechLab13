@@ -1,0 +1,50 @@
+//dumy values as lat and long
+var university_map = [{
+    "department_name" : "Software Engineering",
+    "latitude" : "25.4084°",
+    "longitude" : "68.2605°"
+},
+
+{
+    "department_name" : "Biomedical Enigineering",
+    "latitude" : "25.4084°",
+    "longitude" : "68.2605°"
+},
+
+{
+    "department_name" : "Civil Enigineering",
+   "latitude" : "25.4084°",
+    "longitude" : "68.2605°"
+},
+
+{
+    "department_name" : "Chemical Enigineering",
+    "latitude" : "25.4084°",
+    "longitude" : "68.2605°"
+},
+
+{
+    "department_name" : "Computer System Enigineering",
+    "latitude" : "25.4084°",
+    "longitude" : "68.2605°"
+},
+
+{
+    "department_name" : "Telecommunication Enigineering",
+    "latitude" : "25.4084°",
+    "longitude" : "68.2605°"
+},
+
+{
+    "department_name" : "Electronic Enigineering",
+    "latitude" : "25.4084°",
+    "longitude" : "68.2605°"
+},
+
+{
+    "department_name" : "Architecture Enigineering",
+    "latitude" : "25.4084°",
+    "longitude" : "68.2605°"
+},
+
+];

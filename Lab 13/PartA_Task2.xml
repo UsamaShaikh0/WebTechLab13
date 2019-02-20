@@ -1,0 +1,41 @@
+<!DOCTYPE university SYSTEM "PartA_Task2.dtd">
+<university>
+
+		<departmentOfSoftwareEngineering>
+			<students>
+
+				<first_year>
+					<batch1>18 Batch</batch1>
+					<list1>
+						<names>List of students names</names>
+						<roll_nums>List of students roll numbers</roll_nums>
+					</list1>
+				</first_year>
+
+				<second_year>
+					<batch2>17 Batch</batch2>	
+					<list2>
+						<names>List of students names</names>
+						<roll_nums>List of students roll numbers</roll_nums>
+					</list2>
+				</second_year>
+
+				<third_year>
+					<batch3>F-16 Batch</batch3>	
+					<list3>
+						<names>List of students names</names>
+						<roll_nums>List of students roll numbers</roll_nums>
+					</list3>
+				</third_year>
+
+				<final_year>
+					<batch4>16 Batch</batch4>	
+					<list4>
+						<names>List of students names</names>
+						<roll_nums>List of students roll numbers</roll_nums>
+					</list4>
+				</final_year>
+
+			</students>
+		</departmentOfSoftwareEngineering>
+</university>

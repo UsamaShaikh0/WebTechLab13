@@ -1,0 +1,49 @@
+var university_map = [{
+    "department_name" : "Software Engineering",
+    "latitude" : "",
+    "longitude" : ""
+},
+
+{
+    "department_name" : "Biomedical Enigineering",
+    "latitude" : "",
+    "longitude" : ""
+},
+
+{
+    "department_name" : "Civil Enigineering",
+    "latitude" : "",
+    "longitude" : ""
+},
+
+{
+    "department_name" : "Chemical Enigineering",
+    "latitude" : "",
+    "longitude" : ""
+},
+
+{
+    "department_name" : "Computer System Enigineering",
+    "latitude" : "",
+    "longitude" : ""
+},
+
+{
+    "department_name" : "Telecommunication Enigineering",
+    "latitude" : "",
+    "longitude" : ""
+},
+
+{
+    "department_name" : "Electronic Enigineering",
+    "latitude" : "",
+    "longitude" : ""
+},
+
+{
+    "department_name" : "Architecture Enigineering",
+    "latitude" : "",
+    "longitude" : ""
+},
+
+];

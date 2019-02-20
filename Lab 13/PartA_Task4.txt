@@ -1,0 +1,17 @@
+JSON:
+JSON stands for JavaScript Object Notation. 
+JSON is lightweight thus simple to read and write.
+JSON files are more human readable.
+JSON has no display capabilities.
+It is a way of representing data in objects.
+No support for Namespaces.
+JSON doesn't use end tag
+JSON can use arrays.
+
+
+XML:
+XML is short for Extensive Markup Language.
+It supports namespaces.
+It uses tag structure to represent data items.
+Its documents are comparatively difficult to read and interpret.
+It has start and end tags.
